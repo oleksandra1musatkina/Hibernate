@@ -31,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/entity/InstructorDetail.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="42" />
+              <caret line="16" column="135" selection-start-line="16" selection-start-column="135" selection-end-line="16" selection-end-column="135" />
             </state>
           </provider>
         </entry>
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/DeleteInstructorDetailDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="204">
+              <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -120,16 +120,16 @@
         <option value="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/CreateDemo.java" />
         <option value="$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/CreateDemo.java" />
         <option value="$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/DeleteDemo.java" />
-        <option value="$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/entity/InstructorDetail.java" />
         <option value="$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/GetInstructorDetailDemo.java" />
+        <option value="$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/entity/InstructorDetail.java" />
         <option value="$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/DeleteInstructorDetailDemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,27 +137,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hb-02-one-to-one-bi-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-02-one-to-one-bi-3" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-02-one-to-one-bi-4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-02-one-to-one-bi-4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-02-one-to-one-bi-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-02-one-to-one-bi-3" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-02-one-to-one-bi-4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-02-one-to-one-bi-4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-02-one-to-one-bi-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-02-one-to-one-bi-3" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-02-one-to-one-bi-4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-02-one-to-one-bi-4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="itsovy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-02-one-to-one-bi-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-02-one-to-one-bi-3" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-02-one-to-one-bi-4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-02-one-to-one-bi-4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="itsovy" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
@@ -166,7 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -177,8 +177,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579769608563" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hb-03-one-to-many" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579767494794" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -291,18 +291,19 @@
       <updated>1579688256215</updated>
       <workItem from="1579688267947" duration="7705000" />
       <workItem from="1579721386458" duration="1365000" />
-      <workItem from="1579723512804" duration="3149000" />
+      <workItem from="1579723512804" duration="2191000" />
+      <workItem from="1579767753323" duration="1363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12219000" />
+    <option name="totallyTimeSpent" value="12624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="654" height="688" extended-state="0" />
+    <frame x="-7" y="0" width="653" height="687" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1969697" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20404722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,7 +312,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32733813" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32612613" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,13 +346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/entity/InstructorDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -396,10 +390,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/entity/InstructorDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="135" selection-start-line="16" selection-start-column="135" selection-end-line="16" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sk/itsovy/hibernate/demo/DeleteInstructorDetailDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="204">
+          <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
         </state>
       </provider>
     </entry>
