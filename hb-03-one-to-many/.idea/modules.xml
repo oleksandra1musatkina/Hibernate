@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testyunit/testyunit.iml" filepath="$PROJECT_DIR$/testyunit/testyunit.iml" />
     </modules>
   </component>
 </project>
